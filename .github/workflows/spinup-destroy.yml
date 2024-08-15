@@ -12,7 +12,7 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  AZURE_WEBAPP_NAME: ${{ github.actor }}-ttt-app
+  AZURE_WEBAPP_NAME: allanrolli-ttt-app
 
 jobs:
   setup-up-azure-resources:
